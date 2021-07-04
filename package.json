@@ -1,0 +1,23 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesAwayAlex/http-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milesAwayAlex/http-server/issues"
+  },
+  "homepage": "https://github.com/milesAwayAlex/http-server#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
